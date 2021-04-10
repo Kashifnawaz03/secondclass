@@ -8,6 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <br/>
         Updated by Kashif
+        <br/>
+        I love my kids
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
